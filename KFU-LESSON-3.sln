@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KFU-LESSON-3", "KFU-LESSON-3\KFU-LESSON-3.csproj", "{9E8E81CD-3B8D-4BBB-AE9C-388F0346C7ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T00Much", "T00Much\T00Much.csproj", "{A039CEE9-7E3E-494C-821E-C4B03B02D8E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E8E81CD-3B8D-4BBB-AE9C-388F0346C7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8E81CD-3B8D-4BBB-AE9C-388F0346C7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8E81CD-3B8D-4BBB-AE9C-388F0346C7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8E81CD-3B8D-4BBB-AE9C-388F0346C7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A039CEE9-7E3E-494C-821E-C4B03B02D8E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A039CEE9-7E3E-494C-821E-C4B03B02D8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A039CEE9-7E3E-494C-821E-C4B03B02D8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A039CEE9-7E3E-494C-821E-C4B03B02D8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1B96C87-329B-4099-9B5C-09D5959DBB2D}
+	EndGlobalSection
+EndGlobal
